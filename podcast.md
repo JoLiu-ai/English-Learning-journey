@@ -4,7 +4,9 @@
 2. [lexfridman](https://www.youtube.com/@lexfridman)
 3. [All-In Podcast](https://www.youtube.com/@allin)
 4. [Andrew Huberman](https://www.youtube.com/@hubermanlab)
-5. NPR
+5. Acquired
+6. No Priors: AI, Machine Learning, Tech, & Startups
+7. NPR
    * The Indicator
    * Life Kit
    * Planet Money
@@ -27,6 +29,13 @@
 3. Freakonomics Radio
 4. After Hours
 5. WSJ
+
+## AI 人物
+1. Ilya Sutskever
+2. Andrej Karpathy
+3. Yann LeCun
+4. Hinton
+5. 吴恩达
 
 ## teacher
 1. Bob-the-Canadian
