@@ -7,7 +7,8 @@
 5. NPR
    * The Indicator
    * Life Kit
-   * Planet Money 
+   * Planet Money
+   * hidden brain
    
 
 ## 新闻
@@ -23,3 +24,18 @@
 ## 播客
 1. No Stupid Questions
 2. Think Fast, Talk Smart Podcast
+3. Freakonomics Radio
+4. After Hours
+5. WSJ
+
+## teacher
+1. Bob-the-Canadian
+2. Steve Kaufmann
+3. 赖世雄
+4. [pual gruber](https://www.bilibili.com/video/BV1n54y1B7bE)
+5. Rachel
+6. 
+
+## 
+1. [EnglishPod](https://www.bilibili.com/video/BV13j411X7Ai)
+2. ESL pod
