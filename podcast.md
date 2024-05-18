@@ -44,8 +44,7 @@
 3. 赖世雄
 4. [pual gruber](https://www.bilibili.com/video/BV1n54y1B7bE)
 5. Rachel
-6. 
 
-## 
+## 入门必备
 1. [EnglishPod](https://www.bilibili.com/video/BV13j411X7Ai)
 2. ESL pod
