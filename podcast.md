@@ -6,7 +6,8 @@
 4. [Andrew Huberman](https://www.youtube.com/@hubermanlab)
 5. Acquired
 6. No Priors: AI, Machine Learning, Tech, & Startups
-7. NPR
+7. Sana
+8. NPR
    * The Indicator
    * Life Kit
    * Planet Money
