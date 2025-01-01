@@ -15,8 +15,7 @@
 5. ✨ WSJ
 6. Acquired
 7. Sana
-8. 
-9. NPR
+8. NPR
    * The Indicator
    * Life Kit
    * Planet Money
